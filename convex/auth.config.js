@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://just-mastodon-0.clerk.accounts.dev",
+      domain: "https://clerk.boardy.vercel/.well-known/jwks.json",
       applicationID: "convex",
     },
   ]
