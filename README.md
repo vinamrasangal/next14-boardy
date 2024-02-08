@@ -22,7 +22,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next14-miro-clone.git
+git clone https://github.com/vinamrasangal/next14-boardy.git
 ```
 
 ### Install packages
