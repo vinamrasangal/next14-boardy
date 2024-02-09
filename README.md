@@ -1,4 +1,4 @@
-# Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)
+# Build a Real-Time Writing Board With Nextjs, React, Tailwind (2024)
 
 Features:
 
